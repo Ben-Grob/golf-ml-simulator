@@ -16,7 +16,7 @@ Predict a golfer’s score based on key stats (e.g., drive distance, GIR %, scra
 | `gir_pct`          | % of greens in regulation |
 | `scramble_pct`     | % of successful up-and-downs |
 | `putts_per_round`  | Average number of putts per round |
-| 'hcp'              | Players handicap index |
+| `hcp`              | Players handicap index |
 
 ### 🎯 Target (Label)
 - `score` – Total strokes per round (can later be hole-by-hole)
